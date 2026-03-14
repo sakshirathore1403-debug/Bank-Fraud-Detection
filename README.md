@@ -9,7 +9,7 @@ This project implements a Machine Learning based Fraud Detection System that pre
   <li>Interactive interface using Streamlit</li><br>
   <li>Integration with SQL database</li>
 </ul>
-<br>
+
 <ul><h4>Tools and Technologies</h4>
   <l>Python</l><br>
   <l>Pandas</l><br>
@@ -21,7 +21,7 @@ This project implements a Machine Learning based Fraud Detection System that pre
 The project uses Random Forest Classifier for fraud detection. This algorithm is chosen beacause it works well with structured datasets,it reduces overfitting by combining multiple decision trees.it provides better prediction accuracy.
 <br>
 <ul><h4> Model accuracy : 87%</h4>
-<br>
+
 <ul><h4>Installation</h4></ul>
 git clone : https://github.com/sakshirathore1403-debug/Bank-Fraud-Detection.git
 <br>
